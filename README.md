@@ -13,24 +13,25 @@
 
 
 
-# Desafio 1
+# Desafío Uno Desplegando los productos
 ![image](https://user-images.githubusercontent.com/124712008/233480153-3bada6ca-04f0-4281-908f-ed922a4e5c76.png)
 
-# Desafio 2 
+# Desafío Dos Detalles de producto
+![image](https://user-images.githubusercontent.com/124712008/233481835-f8245fa6-1b8d-4bb9-9471-bdaa46ca878f.png)
 
-
-# Desafio 3
+# Desafío 3 Desplegando el carrito de compras
 ![image](https://user-images.githubusercontent.com/124712008/233480967-2b32c27e-c693-4eee-9b05-093074e32a7a.png)
 ![image](https://user-images.githubusercontent.com/124712008/233481225-afd8889d-0aeb-4f88-9d06-8b0df954edfe.png)
 
-# Desafio 4
+# Desafío 4 Implementando el Toast
+![image](https://user-images.githubusercontent.com/124712008/233482073-d58b06c2-4f3c-4fb1-b5fc-4e90fcbfcc97.png)
 
-
-# Desafio 5 
+# Desafío 5 Contar los productos
 ![image](https://user-images.githubusercontent.com/124712008/233481484-21ca4a96-2bfb-4750-928a-7cdd15a44600.png)
 
 
-# Desafio 6
+# Desafío 6  Consumir los datos de una base de datos externa como MongoDb
+![image](https://user-images.githubusercontent.com/124712008/233482690-9f7a189e-9232-486d-8296-f37a42a6f875.png)
 
 
 
