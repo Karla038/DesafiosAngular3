@@ -11,6 +11,8 @@
 ### 4.3 Corre el proyecto con el comando ng serve
 
 
+![image](https://user-images.githubusercontent.com/124712008/233464902-d6d4efc2-42c2-42d7-b9da-0e2653f4d30b.png)
+
 
 
 
