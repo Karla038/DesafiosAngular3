@@ -31,6 +31,7 @@
 
 
 # Desafío 6  Consumir los datos de una base de datos externa como MongoDb
+![image](https://user-images.githubusercontent.com/124712008/233484878-2504c2c1-85fa-4a11-98b5-22da77c65f47.png)
 ![image](https://user-images.githubusercontent.com/124712008/233482690-9f7a189e-9232-486d-8296-f37a42a6f875.png)
 
 
