@@ -11,8 +11,21 @@
 ### 4.3 Corre el proyecto con el comando ng serve
 
 
-![image](https://user-images.githubusercontent.com/124712008/233464902-d6d4efc2-42c2-42d7-b9da-0e2653f4d30b.png)
 
+
+# Desafio 1
+![image](https://user-images.githubusercontent.com/124712008/233480153-3bada6ca-04f0-4281-908f-ed922a4e5c76.png)
+
+# Desafio 2 
+
+
+# Desafio 3
+
+# Desafio 4
+
+# Desafio 5 
+
+# Desafio 6
 
 
 
